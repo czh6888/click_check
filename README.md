@@ -8,7 +8,7 @@
 -|data
 -|result
 -README.MD
--xxx.ipynb
+-xgb.ipynb
 ```
 ## 使用方式
 A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)
